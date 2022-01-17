@@ -8,16 +8,22 @@ Als ich diese Grafik das erste Mal sah, konnte ich mir noch nicht gross vorstell
 
  
 Nach diesem halben Jahr kann ich nun folgendes zusammenfassen:
-***Koha***
+
+**Koha**
 Koha ist ein webbasiertes integriertes Open Source Bibliothekssystem, welches wir in dieser Vorlesung näher angeschaut haben. Koha hat eine SQL Datenbankanbindung, bei welcher Katalogdaten gemäss dem Standard MARC21-XML gespeichert und angeboten werden.
+
 ***ArchivesSpace***
 ArchivesSpace ist eine open Source Webanwendung für die Verwaltung von Archivinformationen.  Diese Daten werden als EAD gespeichert und zur Verfügung gestellt. Die Anwendung ermöglicht auch die Generierung von EAD, MARCXML, MODS, Dublin Core und METS formatierten Daten.
+
 ***DSpace***
 DSpace ist ein Open Access Repositorys und wird als Schnittstelle verwendet. Also DSpace wird nicht verwendet, um die Publikationen auf dieser Plattform anzuschauen. Sondern es wird als Schnittstelle für weitere Systemen genutzt, sodass man eine Streuung auf OAI-PMH beziehen und von dort dies für Apps, Webseiten, Applikationen etc. verwendet werden kann.
+
 ***OpenRefine***
 OpenRefine ist kostenlos und ist ein Java Programm für die Bereinigung und Umwandlung von Daten.
+
 ***Solr***
 Solr ist auch eine Open Source Plattform, in Java geschrieben und für Suchindex verwendet. Zu den Hauptfunktionen von SOlr gehört die Volltextsuche, Hervorhebung von Treffern allgemein, die facettierte Suche, Datenbankintegration, umfassende Dokumentenverarbeitung und noch vieles mehr. 
+
 ***VuFind***
 VuFind ist ein Open Source Discovery-System für Bibliotheken und basiert auf Solr. 
 
