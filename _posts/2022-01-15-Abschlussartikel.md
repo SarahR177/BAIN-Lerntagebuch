@@ -6,6 +6,7 @@ date: 2022-01-14
 Jetzt ist bereits das Semester bald wieder am Ende und wir hatten die letzte Vorlesung von BAIN am 14. Januar. Nun möchte ich mit diesem Blog Artikel nochmals zurückschauen und die Übersicht, die wir bereits in der ersten Lektion vor Augen gestellt bekamen, nochmals aufgreifen und zusammenfassen.
 Als ich diese Grafik das erste Mal sah, konnte ich mir noch nicht gross vorstellen, was mich genau erwarten wird. 
 
+![Schaubild Lerninhalt](schaubild-lehrinhalte.png?raw=true)
  
 Nach diesem halben Jahr kann ich nun folgendes zusammenfassen:
 
