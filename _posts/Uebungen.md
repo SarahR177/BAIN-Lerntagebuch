@@ -1,6 +1,6 @@
 ---
 title: "Übungssammlung "
-date: 2022-01-18
+date: 2022-01-15
 ---
 
 ## Hier sind alle Übungen zu finden
