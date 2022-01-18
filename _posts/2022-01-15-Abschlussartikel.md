@@ -1,6 +1,6 @@
 ---
 title: "Abschlussartikel"
-date: 2022-01-14
+date: 2022-01-15
 ---
 
 Jetzt ist bereits das Semester bald wieder am Ende und wir hatten die letzte Vorlesung von BAIN am 14. Januar. Nun möchte ich mit diesem Blog Artikel nochmals zurückschauen und die Übersicht, die wir bereits in der ersten Lektion vor Augen gestellt bekamen, nochmals aufgreifen und zusammenfassen.
