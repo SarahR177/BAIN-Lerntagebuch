@@ -1,5 +1,5 @@
 ---
-title: "Tag 8 - Abschlussartikel "
+title: "Abschlussartikel"
 date: 2022-01-14
 ---
 
