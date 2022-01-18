@@ -1,6 +1,6 @@
 ---
 title: "Abschlussartikel"
-date: 2022-01-15
+date: 2022-01-18
 ---
 
 Jetzt ist bereits das Semester bald wieder am Ende und wir hatten die letzte Vorlesung von BAIN am 14. Januar. 
