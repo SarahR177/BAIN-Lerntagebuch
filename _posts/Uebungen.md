@@ -1,3 +1,8 @@
+---
+title: "Übungssammlung "
+date: 2022-01-31
+---
+
 # Hier sind alle Übungen
 
 ## Aufgabe vom 05.11.2021
