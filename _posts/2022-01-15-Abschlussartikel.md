@@ -3,7 +3,9 @@ title: "Abschlussartikel"
 date: 2022-01-15
 ---
 
-Jetzt ist bereits das Semester bald wieder am Ende und wir hatten die letzte Vorlesung von BAIN am 14. Januar. Nun möchte ich mit diesem Blog Artikel nochmals zurückschauen und die Übersicht, die wir bereits in der ersten Lektion vor Augen gestellt bekamen, nochmals aufgreifen und zusammenfassen.
+Jetzt ist bereits das Semester bald wieder am Ende und wir hatten die letzte Vorlesung von BAIN am 14. Januar. 
+
+Nun möchte ich mit diesem Blog Artikel nochmals zurückschauen und die Übersicht, die wir bereits in der ersten Lektion vor Augen gestellt bekamen, nochmals aufgreifen und zusammenfassen.
 Als ich diese Grafik das erste Mal sah, konnte ich mir noch nicht gross vorstellen, was mich genau erwarten wird. Diese Grafik ist aus den [Unterlagen von BAIN](https://bain.felixlohmeier.de/#/01_technische-grundlagen).
 
 ![Schaubild Lerninhalt](schaubild-lehrinhalte.png?raw=true)
