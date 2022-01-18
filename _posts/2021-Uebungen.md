@@ -3,9 +3,9 @@ title: "Übungssammlung "
 date: 2022-01-18
 ---
 
-# Hier sind alle Übungen
+Hier sind alle Übungen zu finden
 
-## Aufgabe vom 05.11.2021
+**Aufgabe vom 05.11.2021**
 Import/Export in ArchivesSpace
 
 Am 05. November bekamen wir die erste Übung, die dokumentiert werden darf. In dieser Übung geht es darum, dass in ArchivesSpace die Accession und Resource erstellt werden. 
@@ -29,7 +29,7 @@ die Finding Aid Data sah ich nicht in der MARCXML Datei. In diesem Falle muss fe
 
 
 
-## Aufgabe vom 19.11.2021
+**Aufgabe vom 19.11.2021**
 Bei dieser Übung ging es darum, die erstellte Publikation in DSpace  über die OAI-PMH Schnittstelle  zu exportieren. 
 Das würde normalerweise nicht händisch gemacht, sondern per Algorithmus automatisch in ein anderes System übertragen. 
 Ich entschied mich, gleich am nächsten Tag den Download durchzuführen, sodass ich nicht nochmals eine neue Community, sowie Collection mit einer Publikation anlegen muss. 
@@ -39,7 +39,7 @@ Mehr gibt es zu dieser Übung eigentlich nicht zu sagen 😊 kurz und knackig
 
 
 
-## Aufgabe vom 03.12.2021
+**Aufgabe vom 03.12.2021**
 Konfiguration Suche und Facetten
 Für diese Übung durften wir uns zuerst [dieses Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5)  anschauen.
 
