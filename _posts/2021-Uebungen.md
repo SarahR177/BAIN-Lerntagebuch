@@ -3,7 +3,6 @@ title: "Übungssammlung "
 date: 2022-01-18
 ---
 
-testnfjklsanksdl dfhflsa fwehiafnesa
 
 ## Hier sind alle Übungen zu finden
 
