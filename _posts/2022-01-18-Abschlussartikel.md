@@ -8,7 +8,7 @@ Jetzt ist bereits das Semester bald wieder am Ende und wir hatten die letzte Vor
 Nun möchte ich mit diesem Blog Artikel nochmals zurückschauen und die Übersicht, die wir bereits in der ersten Lektion vor Augen gestellt bekamen, nochmals aufgreifen und zusammenfassen.
 Als ich diese Grafik das erste Mal sah, konnte ich mir noch nicht gross vorstellen, was mich genau erwarten wird. Diese Grafik ist aus den [Unterlagen von BAIN](https://bain.felixlohmeier.de/#/01_technische-grundlagen).
 
-![Schaubild Lerninhalt](schaubild-lehrinhalte.png?raw=true)
+![schaubild-lehrinhalte](https://user-images.githubusercontent.com/90787251/150090787-9108f93e-eecb-438b-9343-35754efe551d.png)
  
 Nach diesem halben Jahr kann ich nun folgendes zusammenfassen:
 
@@ -38,3 +38,6 @@ VuFind ist ein Open Source Discovery-System für Bibliotheken und basiert auf So
 
 Natürlich ist dies jetzt nur nochmals kurz erläutert. In den vorherigen Blogs ist dies detaillierter Aufgeführt, aber es zeigt mir nochmals, dass ich die Grafik und die Zusammenhänge nun verstehen kann und das ich in diesem Semester wieder vieles neues kennenlernen konnte. Dieses Modul gab mir Einblicke, die ich zuvor nicht hatte, da ich auch in der Arbeitswelt einen sehr anderen Fokus habe. Die Mischung von der Theorie und der Praxis fand ich super. Dadurch konnte man sich auch gleich vorstellen, was alles dahinter sein kann. Auch wenn wir nicht sehr detailliert wurden. Ich denke, wenn dies jemand wollte, gab es die perfekte Grundlage dafür und genau das erwarte ich auch von diesem Studium. Da ich mich auf Usability und User Experience spezialisiere, versuchte ich oft diesen Fokus innerhalb der installierten Software miteinzubeziehen. Ich denke wie in vielen anderen Bereichen, gibt es auch in der Bibliotheks- und Archivessystemen noch viel potential die Benutzeroberfläche zu verbessern. Hierzu noch mehr Einblicke von Erfahrungen der Dozenten erfahren zu können, hätte ich sehr spannend gefunden. 
 In diesem Sinne, danke ich mich herzlichst für ihr Engagement und ihr vermitteltes Wissen 😊
+
+
+
