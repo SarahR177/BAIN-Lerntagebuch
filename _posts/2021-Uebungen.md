@@ -22,7 +22,7 @@ Da dies einige Minuten ging, fing ich bereits an hier zu dokumentieren. Die Anze
 Die EAD Datei enthält nur eine “Resource”, aber keine “Digital Objects” und die Zeitspanne ist unterschiedlich.
 Diese Importierte Datei exportierte ich in einem zweiten Schritt. Dies war zu finden unter Resources > der Datei > Edit > Export > Download MARCXML.
 
-![Export ArchivesSpace](Uebung1.png?raw=true)
+<img width="505" alt="Uebung1" src="https://user-images.githubusercontent.com/90787251/150091015-a797202b-6f2e-49a3-8aa2-692213e616b1.png">
 
  
 Als ich die MARCXML Datei verglich mit dem Eintrag in ArchivesSpace fiel mir auf, dass bei den Extends der Begriff in Portion nicht im XML vorhanden ist und auch 
@@ -55,4 +55,7 @@ Nachher wurde auch im Video eine kopie von der Datei «facets» angelegt. Diese 
 All diese Konfiguration kann auch individuell modifiziert werden, neu angeordnet oder die Labels nach belieben gewechselt werden. 
 Es können auch eigene Checkboxen für die Suche erstellt werden. Zum Beispiel «no Author». So können auch Records angezeigt werden, welchen keinen Author hinterlegt haben. 
 Oder auch Checkboxen welche das Format auswählbar macht in der Suche (z.B. Ebook, Book, Book Chapter etc.)
+
+
+
 
